@@ -5,11 +5,11 @@ int b= 82;
 public void setup()
 {
 	size(500,500);
-	background(97,208,134);
+	
 	
 }
 public void draw()
-{
+{background(97,208,134);
    sierpinski(0,500,500);
    
 }
