@@ -19,7 +19,7 @@ public void keyPressed()//optional
   
   if(keyCode==UP)
   {
-  	System.out.println(n);
+  	
     n=n-15;
     r=255;
     g=129;
@@ -31,7 +31,7 @@ public void keyPressed()//optional
   {
   	n=n+15;
    
-  	System.out.println(r);
+  	
 
   	
   	
