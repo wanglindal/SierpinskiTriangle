@@ -25,7 +25,7 @@ public void keyPressed()//optional
     g=129;
     b=31;
     if(n<=0)
-    	{ n= 0;}
+    	{ n= 1;}
   }
   else if(keyCode == DOWN)
   {
